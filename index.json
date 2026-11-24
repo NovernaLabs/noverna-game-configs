@@ -1,0 +1,2185 @@
+{
+  "format": 1,
+  "games": [
+    {
+      "id": "abiotic-factor",
+      "name": "Abiotic Factor",
+      "steamAppIds": [
+        "427410"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/abiotic-factor/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 11194,
+              "sha256": "d320c92863a38fb8aa40f86a3f9341599f580e3c3c77f2d881fc6be2fc12d623"
+            },
+            {
+              "path": "games/abiotic-factor/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 18051,
+              "sha256": "cc1136ea3ec02e634e93b0c05c6714318926f23924d7a9dffaad9c2c842370a9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "atomic-heart",
+      "name": "Atomic Heart",
+      "steamAppIds": [
+        "668580"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/atomic-heart/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 4143,
+              "sha256": "f2c435fc8c48fe13dc4cc3777a6316509a905c209f636117a52c8127face6574"
+            },
+            {
+              "path": "games/atomic-heart/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 6988,
+              "sha256": "98ebf586780b597fb6d18dc098a19013709c3561351aefdf0ce545dec72f961d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "avowed",
+      "name": "Avowed",
+      "steamAppIds": [
+        "2457220"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/avowed/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 367,
+              "sha256": "f2ddf9e82a898b21e8d945a7ebc3a1982faa242fb833db272645ae75f6a66860"
+            },
+            {
+              "path": "games/avowed/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7619,
+              "sha256": "d854720450e1297da977307d53b913bfd2122402f4b97ca93eaac1df31b0e855"
+            },
+            {
+              "path": "games/avowed/ue4ss/UE4SS_Signatures/GUObjectArray.lua",
+              "target": "UE4SS_Signatures/GUObjectArray.lua",
+              "size": 367,
+              "sha256": "eaada0ec4da25d3fc57c9051296c7c95db89cd5c338c922b228482aedd725512"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "borderlands-3",
+      "name": "Borderlands 3",
+      "steamAppIds": [
+        "397540"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/borderlands-3/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 5740,
+              "sha256": "98feb22e546eabf4a041427ddc8c3548c33982a2302c96e024a868b08bfa38f2"
+            },
+            {
+              "path": "games/borderlands-3/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 4376,
+              "sha256": "c1470d666a5ea67bea28fc6c650ffd2ee693858bb8d7cfe4b57e2323ff5818f7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conan-exiles-enhanced",
+      "name": "Conan Exiles Enhanced",
+      "steamAppIds": [
+        "440900"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/conan-exiles-enhanced/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 9575,
+              "sha256": "539c138a4846da5aa3671cf43dd3934c6c9f16691443714ca7ff575fd5229ca2"
+            },
+            {
+              "path": "games/conan-exiles-enhanced/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 54954,
+              "sha256": "b58d8b924ec9ec2eb0dc81a81726f275722dd28fc17052a9c9cb6ea16f5d1ef1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crash-bandicoot-4",
+      "name": "Crash Bandicoot 4",
+      "steamAppIds": [
+        "1378990"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/crash-bandicoot-4/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7590,
+              "sha256": "e4c8ab3146be1b461bc85d0aef9f317548728906391b541cf9394a4a0fca98d1"
+            },
+            {
+              "path": "games/crash-bandicoot-4/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 14942,
+              "sha256": "41e08ff47eeef81677ae2e82ba004872ede3e84c156d81b40a98895bb50d855a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cthulhutca",
+      "name": "CthulhuTCA",
+      "steamAppIds": [
+        "2760560"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/cthulhutca/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7617,
+              "sha256": "f9d74e6cc64f28d4770999ecd3f6c96d7f3d9ebe405120271ed6a149e89b9a84"
+            },
+            {
+              "path": "games/cthulhutca/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 178,
+              "sha256": "dc3d993d91abf51666d4a9f9061d8991fc15c8048081f35fc66c5e75646c60c5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deadly-days-roadtrip",
+      "name": "Deadly Days Roadtrip",
+      "steamAppIds": [
+        "3026450"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/deadly-days-roadtrip/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7409,
+              "sha256": "b684e4509d3f077aab3d1f846d50ad1d21480489575bbc74b43ba33251b76bc8"
+            },
+            {
+              "path": "games/deadly-days-roadtrip/ue4ss/UE4SS_Signatures/FText_Constructor.lua",
+              "target": "UE4SS_Signatures/FText_Constructor.lua",
+              "size": 959,
+              "sha256": "e6bdbd1b6b3e63ea79c6c2697c7b500e0cf9e2a1624aca34e61ec2b808203a8a"
+            },
+            {
+              "path": "games/deadly-days-roadtrip/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 170,
+              "sha256": "df1e05aab1835cea9c8ac896d97e15a28960985835b67ece466c45da9a2472b4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drainsim",
+      "name": "Drainsim",
+      "steamAppIds": [
+        "2963800"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/drainsim/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 8013,
+              "sha256": "35947f4762da2e718eba027156108f59142d5aff47646d28bfc41da900deda6b"
+            },
+            {
+              "path": "games/drainsim/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 211,
+              "sha256": "e9b780aa311dea52c29818c414a2085dc0c4ea56136514202f8b44c00c5d7a59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "duneawakening",
+      "name": "DuneAwakening",
+      "steamAppIds": [
+        "1172710"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/duneawakening/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 38847,
+              "sha256": "98cf09e3ee28e6d9eb0d1b01f0db615b281cda7e707bbb1a686031920fdc8bf3"
+            },
+            {
+              "path": "games/duneawakening/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 9575,
+              "sha256": "7239fa6f0abd80b9bdf23bdd5ad65ecb84849471d3fa241d5c411f966e9dc768"
+            },
+            {
+              "path": "games/duneawakening/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 52482,
+              "sha256": "a797619050cc0827aa1c820a28a9bc737d0781712ad366501f0868c5c53cbed4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "far-far-west",
+      "name": "Far Far West",
+      "steamAppIds": [
+        "3124540"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/far-far-west/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 8292,
+              "sha256": "b84563f01c95b46634f0927cf624e1deb7d4ddfab40e859a569c32045a847155"
+            },
+            {
+              "path": "games/far-far-west/ue4ss/UE4SS_Signatures/GNatives.lua",
+              "target": "UE4SS_Signatures/GNatives.lua",
+              "size": 696,
+              "sha256": "f6671bda68b1eb0d787410fbb01acaf9f46e4c041db0a8b4af51d6468802a9ab"
+            },
+            {
+              "path": "games/far-far-west/ue4ss/UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "target": "UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "size": 472,
+              "sha256": "deb79248a54d7b41d28e981abf257b8408621315c64502d8f69f370ab99025c2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fatekeeper",
+      "name": "Fatekeeper",
+      "steamAppIds": [
+        "2186990"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/fatekeeper/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7617,
+              "sha256": "f9d74e6cc64f28d4770999ecd3f6c96d7f3d9ebe405120271ed6a149e89b9a84"
+            },
+            {
+              "path": "games/fatekeeper/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 178,
+              "sha256": "dc3d993d91abf51666d4a9f9061d8991fc15c8048081f35fc66c5e75646c60c5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-7-rebirth",
+      "name": "Final Fantasy 7 Rebirth",
+      "steamAppIds": [
+        "2909400"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/final-fantasy-7-rebirth/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 10579,
+              "sha256": "9d49285eaa54c33247b0b8b8d58c42f5ac34a90a431a0fdbfa14ca3acaba01fd"
+            },
+            {
+              "path": "games/final-fantasy-7-rebirth/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7550,
+              "sha256": "3584619e3991a60d1ec9286d7932f7d59d26b274da00e8386162648db0a12f0f"
+            },
+            {
+              "path": "games/final-fantasy-7-rebirth/ue4ss/UE4SS_Signatures/CallFunctionByNameWithArguments.lua",
+              "target": "UE4SS_Signatures/CallFunctionByNameWithArguments.lua",
+              "size": 250,
+              "sha256": "ab461e5c0b579478e326032f37e56360b66402b0c9d72c079348cd9a69cc22ee"
+            },
+            {
+              "path": "games/final-fantasy-7-rebirth/ue4ss/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 253,
+              "sha256": "875310835d43de0e2b333fa11673dd7de546c29f86faa863030f477e9633aa45"
+            },
+            {
+              "path": "games/final-fantasy-7-rebirth/ue4ss/UE4SS_Signatures/FText_Constructor.lua",
+              "target": "UE4SS_Signatures/FText_Constructor.lua",
+              "size": 306,
+              "sha256": "c825a9795110e423a1cabd103f362ca45f13f8cf24b4aa6bbb2b6a2572b7b858"
+            },
+            {
+              "path": "games/final-fantasy-7-rebirth/ue4ss/UE4SS_Signatures/GNatives.lua",
+              "target": "UE4SS_Signatures/GNatives.lua",
+              "size": 338,
+              "sha256": "18c69c1714612436def49f9e5ad43781d8976ffb22a0cedcbef92d21c929568c"
+            },
+            {
+              "path": "games/final-fantasy-7-rebirth/ue4ss/UE4SS_Signatures/GUObjectArray.lua",
+              "target": "UE4SS_Signatures/GUObjectArray.lua",
+              "size": 297,
+              "sha256": "5ca1e7fc948b55d724f321b4db0c0ea21aa6817eec98de04888f82903dea47db"
+            },
+            {
+              "path": "games/final-fantasy-7-rebirth/ue4ss/UE4SS_Signatures/GUObjectHashTables.lua",
+              "target": "UE4SS_Signatures/GUObjectHashTables.lua",
+              "size": 194,
+              "sha256": "37a0138b2372afff5206eb6ae5966071b67d9891fb215e8cfe6cb1c2bee600e0"
+            },
+            {
+              "path": "games/final-fantasy-7-rebirth/ue4ss/UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "target": "UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "size": 340,
+              "sha256": "dcade4086e5739d68da0e7338b8e05d8fe3303b6f456a18d696c4d04641f4be8"
+            },
+            {
+              "path": "games/final-fantasy-7-rebirth/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 15913,
+              "sha256": "941bf4a89e71f9ca229af74be8dc34db6b5053fd35059239ca10d533f9319cd9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-7-remake",
+      "name": "Final Fantasy 7 Remake",
+      "steamAppIds": [
+        "1462040"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/final-fantasy-7-remake/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 7449,
+              "sha256": "41260292df844a1e7b4b96a7b04acfad5938471d44448757b5ceeaf4a1826f50"
+            },
+            {
+              "path": "games/final-fantasy-7-remake/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7689,
+              "sha256": "3c28947f27a4a54641618e41c10d54f8729a9335b58a56fea396e37b6df313d3"
+            },
+            {
+              "path": "games/final-fantasy-7-remake/ue4ss/UE4SS_Signatures/GUObjectArray.lua",
+              "target": "UE4SS_Signatures/GUObjectArray.lua",
+              "size": 315,
+              "sha256": "1a13aea51ab3ef120d761c64378c35d14c52144d5941d89340948c4e52653ba4"
+            },
+            {
+              "path": "games/final-fantasy-7-remake/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 13781,
+              "sha256": "35498d2b29870ec6c617241294efe7706bdabeaf0458c98725e0e0fbb7d063b8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fuser",
+      "name": "Fuser",
+      "steamAppIds": [],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/fuser/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 4805,
+              "sha256": "987d5b9a82a446c58fcc633ea2b86a0e9e287dd799ec7c941ff00d077b785eb4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ghost-wire-tokyo",
+      "name": "Ghost Wire Tokyo",
+      "steamAppIds": [
+        "1475810"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/ghost-wire-tokyo/ue4ss/UE4SS_Signatures/GUObjectArray.lua",
+              "target": "UE4SS_Signatures/GUObjectArray.lua",
+              "size": 944,
+              "sha256": "c071ecc3c1f1a95b8e258b52f5fa336427f5bb50648c0bf03b6c1e40946357b8"
+            },
+            {
+              "path": "games/ghost-wire-tokyo/ue4ss/UE4SS_Signatures/GUObjectHashTables.lua",
+              "target": "UE4SS_Signatures/GUObjectHashTables.lua",
+              "size": 1217,
+              "sha256": "1f7d0d0ace0fa84e7f53dc966f664402f610553de595d2c7ebd38d41ca1cc527"
+            },
+            {
+              "path": "games/ghost-wire-tokyo/ue4ss/UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "target": "UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "size": 1314,
+              "sha256": "f05c864cb499a742037fe4a20114f96ab485e8694bae589156c9fd171d383b9f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gothic1remake",
+      "name": "Gothic1Remake",
+      "steamAppIds": [
+        "1297900"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/gothic1remake/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 38776,
+              "sha256": "766eb6fb899b816977a640d59b733dcab70d873865e9f93650a7562a02a7e6d7"
+            },
+            {
+              "path": "games/gothic1remake/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7619,
+              "sha256": "83d9a367bdf931580b61c55512c253919eca8b06f752f1b5febd1941e810b981"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grounded",
+      "name": "Grounded",
+      "steamAppIds": [
+        "962130"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/grounded/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 4253,
+              "sha256": "431351cad662a7cde9c90e7fb933a8c61aaa6e4e1de43c674c2a353937f6cbf2"
+            },
+            {
+              "path": "games/grounded/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 8834,
+              "sha256": "57431022560d4ee2140ff36c05f2ba60c87bf2f9a7bcc78349fdfba61ca3912d"
+            },
+            {
+              "path": "games/grounded/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 13488,
+              "sha256": "0641d6e0bfa2ed2e47febcb0e79667cf33b4275dc30ae7db2f90589383f6fb66"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grounded2",
+      "name": "Grounded2",
+      "steamAppIds": [
+        "2661300"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/grounded2/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 6956,
+              "sha256": "3da6e8d809d759eb6335c0e6a2da6371531de742add18308a9dfb4c48bb8e9cb"
+            },
+            {
+              "path": "games/grounded2/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 178,
+              "sha256": "dc3d993d91abf51666d4a9f9061d8991fc15c8048081f35fc66c5e75646c60c5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "halo-campaign-evolved",
+      "name": "Halo Campaign Evolved",
+      "steamAppIds": [
+        "2806050"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": "gamepass",
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/halo-campaign-evolved/ue4ss-gamepass/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 9578,
+              "sha256": "c4f089ee16d31b98528824eeb3fd7ca5f042a5f307dd4ab66a0ef03be475b19a"
+            },
+            {
+              "path": "games/halo-campaign-evolved/ue4ss-gamepass/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 223,
+              "sha256": "8729fd8e0166dd32088d366ae83a4f0978a1a106129aee62f1ec0690dcd10a5d"
+            },
+            {
+              "path": "games/halo-campaign-evolved/ue4ss-gamepass/UE4SS_Signatures/GUObjectArray.lua",
+              "target": "UE4SS_Signatures/GUObjectArray.lua",
+              "size": 592,
+              "sha256": "d9e8a000ec7504fecf8d38df747ddb35014ce0089d7278491bb7b61bdecde766"
+            },
+            {
+              "path": "games/halo-campaign-evolved/ue4ss-gamepass/UE4SS_Signatures/GUObjectHashTables.lua",
+              "target": "UE4SS_Signatures/GUObjectHashTables.lua",
+              "size": 597,
+              "sha256": "7fb3296776ac858b41a3f269b885f1bcdb1da77eab4e407b32d01b0a82096509"
+            },
+            {
+              "path": "games/halo-campaign-evolved/ue4ss-gamepass/UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "target": "UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "size": 259,
+              "sha256": "1b2c9bd650155534df1f013e086725cc93df0c5e25064a590483d97120228732"
+            }
+          ]
+        },
+        {
+          "framework": "ue4ss",
+          "store": "steam",
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/halo-campaign-evolved/ue4ss-steam/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 9578,
+              "sha256": "c4f089ee16d31b98528824eeb3fd7ca5f042a5f307dd4ab66a0ef03be475b19a"
+            },
+            {
+              "path": "games/halo-campaign-evolved/ue4ss-steam/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 223,
+              "sha256": "8729fd8e0166dd32088d366ae83a4f0978a1a106129aee62f1ec0690dcd10a5d"
+            },
+            {
+              "path": "games/halo-campaign-evolved/ue4ss-steam/UE4SS_Signatures/GUObjectArray.lua",
+              "target": "UE4SS_Signatures/GUObjectArray.lua",
+              "size": 451,
+              "sha256": "f76b4714eeeea4ab24f921ffde1c73677191010b82735fd664de5a4e561dc1af"
+            },
+            {
+              "path": "games/halo-campaign-evolved/ue4ss-steam/UE4SS_Signatures/GUObjectHashTables.lua",
+              "target": "UE4SS_Signatures/GUObjectHashTables.lua",
+              "size": 241,
+              "sha256": "d945356c728f22f2cffe1278210b63eb3364406579d2bfee2b5f9a1b985a5510"
+            },
+            {
+              "path": "games/halo-campaign-evolved/ue4ss-steam/UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "target": "UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "size": 257,
+              "sha256": "cb863a0c59f39f2f4476df177c93b32e99007b92d94fe40f71998de7ce3a2863"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "industria2",
+      "name": "INDUSTRIA2",
+      "steamAppIds": [
+        "2154070"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/industria2/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7617,
+              "sha256": "f9d74e6cc64f28d4770999ecd3f6c96d7f3d9ebe405120271ed6a149e89b9a84"
+            },
+            {
+              "path": "games/industria2/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 178,
+              "sha256": "dc3d993d91abf51666d4a9f9061d8991fc15c8048081f35fc66c5e75646c60c5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kingdom-hearts-3",
+      "name": "Kingdom Hearts 3",
+      "steamAppIds": [
+        "2552450"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/kingdom-hearts-3/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 5132,
+              "sha256": "3abdf1278380a00177e52db3110e720ecc705d0d9341dc235e182d9cd9835122"
+            },
+            {
+              "path": "games/kingdom-hearts-3/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7003,
+              "sha256": "b69a442a96ea9dcfae2db2cd3d0838617d6e78cead55b288a9205bfb0357ce58"
+            },
+            {
+              "path": "games/kingdom-hearts-3/ue4ss/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 202,
+              "sha256": "a8c46a61fbb87393341fcbe75309b27eb0f707ca04561043b5722adaac78661b"
+            },
+            {
+              "path": "games/kingdom-hearts-3/ue4ss/UE4SS_Signatures/FName_ToString.lua",
+              "target": "UE4SS_Signatures/FName_ToString.lua",
+              "size": 263,
+              "sha256": "67a8135368908840dfe6f890589bd596386a8c5a9cb1e002f35141f478930e95"
+            },
+            {
+              "path": "games/kingdom-hearts-3/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 183,
+              "sha256": "01a5830d86440a07588cef1798afa47001097eea7853b263d9b7441f84e5d35d"
+            },
+            {
+              "path": "games/kingdom-hearts-3/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 4098,
+              "sha256": "1ad267b3b14e161eb9a1f83c9109e7d2740561e5b647229d2ec78cf3509c6c02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lies-of-p",
+      "name": "Lies of P",
+      "steamAppIds": [
+        "1627720"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/lies-of-p/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7129,
+              "sha256": "67bda0ad78ff4fd835f50c8286a86a7122955ef545725da6b911e0c3efbb1e88"
+            },
+            {
+              "path": "games/lies-of-p/ue4ss/UE4SS_Signatures/FText_Constructor.lua",
+              "target": "UE4SS_Signatures/FText_Constructor.lua",
+              "size": 200,
+              "sha256": "acdc3edd000bdd0611e56e95dcbb7a0f1a02563b83bfb4eceac059b2bce982d4"
+            },
+            {
+              "path": "games/lies-of-p/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 319,
+              "sha256": "6a886e6260416a03fd2093e0db4f09f9b32b84d1582a66166b1ea38db76a503a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "little-nightmares-3-demo",
+      "name": "Little Nightmares 3 - Demo",
+      "steamAppIds": [],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/little-nightmares-3-demo/ue4ss/UE4SS_Signatures/GUObjectArray.lua",
+              "target": "UE4SS_Signatures/GUObjectArray.lua",
+              "size": 380,
+              "sha256": "275ade3e1ed57f7c953393f338ab84eb675716546c8c98951e77d6e0424cd5d4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "metalgearsoliddelta",
+      "name": "MetalGearSolidDelta",
+      "steamAppIds": [],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/metalgearsoliddelta/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 5799,
+              "sha256": "9b443a513c08d1e24ec6843e6748c579c186bad2aabd60c61cad9160ce747c30"
+            },
+            {
+              "path": "games/metalgearsoliddelta/ue4ss/UE4SS_Signatures/GUObjectArray.lua",
+              "target": "UE4SS_Signatures/GUObjectArray.lua",
+              "size": 340,
+              "sha256": "4d5105b92e87379ec273f47b191fa485b6e50187fa74658311c02193dd6b7332"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mortalshell2",
+      "name": "MortalShell2",
+      "steamAppIds": [
+        "2584270"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/mortalshell2/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7617,
+              "sha256": "f9d74e6cc64f28d4770999ecd3f6c96d7f3d9ebe405120271ed6a149e89b9a84"
+            },
+            {
+              "path": "games/mortalshell2/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 178,
+              "sha256": "dc3d993d91abf51666d4a9f9061d8991fc15c8048081f35fc66c5e75646c60c5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "palworld",
+      "name": "Palworld",
+      "steamAppIds": [
+        "1623730"
+      ],
+      "unrealProjects": [
+        "Pal"
+      ],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/issues/802",
+          "notes": "Palworld 0.4.1.5 moved UEnum::Names by 8 bytes. Tested by Noverna Studio on 24 November 2026: type dumps and mappings work again.",
+          "testedWith": [
+            "4.0.0",
+            "4.0.0-15-gb5daa4cc"
+          ],
+          "files": [
+            {
+              "path": "games/palworld/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 358,
+              "sha256": "600d31dbf04d76a1516c527434cc249394d9d318897d7987b2a40f39a7530c9b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-silverfish",
+      "name": "Project Silverfish",
+      "steamAppIds": [
+        "2941710"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/project-silverfish/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7409,
+              "sha256": "ce9a1be51323e56106ec59d07778add2d6c7d36c68faf12ca56e1fa9cc606520"
+            },
+            {
+              "path": "games/project-silverfish/ue4ss/UE4SS_Signatures/FText_Constructor.lua",
+              "target": "UE4SS_Signatures/FText_Constructor.lua",
+              "size": 607,
+              "sha256": "da8a9c02ebf629f8e1dd112c6584d647cdafeb0c3a8b29e7f88c1d76bc9067d3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "psychonauts-2",
+      "name": "Psychonauts 2",
+      "steamAppIds": [
+        "607080"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/psychonauts-2/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 15680,
+              "sha256": "24302053a255662a8fd2e285228f0fd3403ccedd0b5c92a0230fcfcaec424f4d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "returnal",
+      "name": "Returnal",
+      "steamAppIds": [
+        "1649240"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/returnal/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7294,
+              "sha256": "d74bb0efc82952523c344b534c2222b6fbec6a446b23b6c221e3b96806086e25"
+            },
+            {
+              "path": "games/returnal/ue4ss/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 56,
+              "sha256": "31a75fd06789cd2f261872ca05daee18261787f1ad3465d5bd89eff3a0a35208"
+            },
+            {
+              "path": "games/returnal/ue4ss/UE4SS_Signatures/FName_ToString.lua",
+              "target": "UE4SS_Signatures/FName_ToString.lua",
+              "size": 58,
+              "sha256": "2313a32d81422539e6d5342c71ead2f5571405618f7a55b79d471eb9b51b9c4f"
+            },
+            {
+              "path": "games/returnal/ue4ss/UE4SS_Signatures/FText_Constructor.lua",
+              "target": "UE4SS_Signatures/FText_Constructor.lua",
+              "size": 53,
+              "sha256": "1a7d19ec76bdfe5894a5f74cd161aa271e9ea0985620f07ebcbf349f10c67d49"
+            },
+            {
+              "path": "games/returnal/ue4ss/UE4SS_Signatures/GMalloc.lua",
+              "target": "UE4SS_Signatures/GMalloc.lua",
+              "size": 47,
+              "sha256": "ad23286500ce6966db3bc461ba728936e32f3edd32c274af60e02c84fff3b781"
+            },
+            {
+              "path": "games/returnal/ue4ss/UE4SS_Signatures/GNatives.lua",
+              "target": "UE4SS_Signatures/GNatives.lua",
+              "size": 71,
+              "sha256": "bf1dd581fe993acde99ba480212b4364ac4432a7d2d0a5ce99443d60cc28ac93"
+            },
+            {
+              "path": "games/returnal/ue4ss/UE4SS_Signatures/GUObjectArray.lua",
+              "target": "UE4SS_Signatures/GUObjectArray.lua",
+              "size": 55,
+              "sha256": "2afa5c2b3bcbb2ab016fc5b0663e4d8fc29f6e116f72dcc5ee1266cbfa50917a"
+            },
+            {
+              "path": "games/returnal/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 169,
+              "sha256": "13856b531d44ed1b1776535209df44734f034f098212d326cf873169fd5f00d5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "romeoisadeadman",
+      "name": "RomeoIsADeadMan",
+      "steamAppIds": [
+        "3050900"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/romeoisadeadman/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7617,
+              "sha256": "f9d74e6cc64f28d4770999ecd3f6c96d7f3d9ebe405120271ed6a149e89b9a84"
+            },
+            {
+              "path": "games/romeoisadeadman/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 178,
+              "sha256": "dc3d993d91abf51666d4a9f9061d8991fc15c8048081f35fc66c5e75646c60c5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samson",
+      "name": "Samson",
+      "steamAppIds": [
+        "3634520"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/samson/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7619,
+              "sha256": "210aaf539878b113c70fc3591e080d5f8a7fd8ea452c0f6bb5abf51f25c2da21"
+            },
+            {
+              "path": "games/samson/ue4ss/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 194,
+              "sha256": "9da4a98dc7c8972b75798cc087fc0b53832628b5149bed56b64128701acdd06c"
+            },
+            {
+              "path": "games/samson/ue4ss/UE4SS_Signatures/GNatives.lua",
+              "target": "UE4SS_Signatures/GNatives.lua",
+              "size": 601,
+              "sha256": "f4bc1d0ca1cec765205433fa511921e04b63477ab93e75cea98856e949a1d251"
+            },
+            {
+              "path": "games/samson/ue4ss/UE4SS_Signatures/GUObjectHashTables.lua",
+              "target": "UE4SS_Signatures/GUObjectHashTables.lua",
+              "size": 1250,
+              "sha256": "0347f2282ca7344797c0212b785ec068cf6ce4272617f9251f225b0184aa4ac2"
+            },
+            {
+              "path": "games/samson/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 904,
+              "sha256": "4eb870738b52876ac2a81d3dee3e4be3fd72443be10c7d0d0474aee753e8df87"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "satisfactory",
+      "name": "Satisfactory",
+      "steamAppIds": [
+        "526870"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/satisfactory/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 39552,
+              "sha256": "1e578f1867600753bb070ada6224fa0e5e8c79ec4bb0a5bfb3743c078b14a489"
+            },
+            {
+              "path": "games/satisfactory/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7592,
+              "sha256": "5b63bb3349c76620c6c7f3b062ae3ecba4a41926e57379916fd3b40cec1afc6c"
+            },
+            {
+              "path": "games/satisfactory/ue4ss/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 168,
+              "sha256": "c3d658691528fcffa79ad515f14f593eaf92aece96bea212eb1e45725e7e0a0c"
+            },
+            {
+              "path": "games/satisfactory/ue4ss/UE4SS_Signatures/FName_ToString.lua",
+              "target": "UE4SS_Signatures/FName_ToString.lua",
+              "size": 168,
+              "sha256": "20f501f4235d3031bceed32b2269bdb8596440bda1a3fb75043eb5dfd3a8628b"
+            },
+            {
+              "path": "games/satisfactory/ue4ss/UE4SS_Signatures/GameEngineTick.lua",
+              "target": "UE4SS_Signatures/GameEngineTick.lua",
+              "size": 85,
+              "sha256": "42241759b9adaef58893bb1b4b0e5b5d915629a5b8e57ad5a628da53fc515a24"
+            },
+            {
+              "path": "games/satisfactory/ue4ss/UE4SS_Signatures/GMalloc.lua",
+              "target": "UE4SS_Signatures/GMalloc.lua",
+              "size": 228,
+              "sha256": "3dcf9cc06a251610c2a619dc83ad862e9f53363ff4029b26fffc53924dd5e14a"
+            },
+            {
+              "path": "games/satisfactory/ue4ss/UE4SS_Signatures/GNatives.lua",
+              "target": "UE4SS_Signatures/GNatives.lua",
+              "size": 202,
+              "sha256": "5e26ebbb741922a4a0c8a5798b1aab3080c887f9ab89db771f3165259651a3ba"
+            },
+            {
+              "path": "games/satisfactory/ue4ss/UE4SS_Signatures/GUObjectArray.lua",
+              "target": "UE4SS_Signatures/GUObjectArray.lua",
+              "size": 124,
+              "sha256": "5a4d81d77b91bee1b475d30280603bbd9acd3ee30850e55309d8fdd6fdc07b70"
+            },
+            {
+              "path": "games/satisfactory/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 468,
+              "sha256": "12c1d07072599db4f6f1c99bf7dc6d2c6017f15a6880f0ae1f90282749d8cb40"
+            },
+            {
+              "path": "games/satisfactory/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 57037,
+              "sha256": "3207f2d41b4d1f97b247024c3a8a19e527ee4f54b4551b31aeb172b7b95c9fb0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scp-5k",
+      "name": "SCP 5K",
+      "steamAppIds": [
+        "872670"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/scp-5k/ue4ss/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 203,
+              "sha256": "aae5a57952ce793f3bab5d25a713473e8b607a157a90633a95071325e85982f9"
+            },
+            {
+              "path": "games/scp-5k/ue4ss/UE4SS_Signatures/FName_ToString.lua",
+              "target": "UE4SS_Signatures/FName_ToString.lua",
+              "size": 173,
+              "sha256": "863259a563ea183d43e6e66737158c4ef1ac4bdb1dc1db5353fd4cbd2b08814c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-f",
+      "name": "Silent Hill F",
+      "steamAppIds": [
+        "2947440"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/silent-hill-f/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 11317,
+              "sha256": "73851a3a3db0f1b0af8d924e7ed0c5e3063e1adf749f198f080b3ca4c64e856e"
+            },
+            {
+              "path": "games/silent-hill-f/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 9578,
+              "sha256": "b9edb64d435ab469cd70082dd0a218be6fe9d768172fc465dc05239f1dbf2a92"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "silenthilltownfall",
+      "name": "SilentHillTownfall",
+      "steamAppIds": [
+        "1636440"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/silenthilltownfall/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 296,
+              "sha256": "0dc80d1f482f0d3c8aa87afc92dcb811f02d1cdda33258b7acad2c304567d406"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "speciesunknown",
+      "name": "SpeciesUnknown",
+      "steamAppIds": [
+        "2747330"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/speciesunknown/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7616,
+              "sha256": "8bcf28eee2efb8918fcc8fd03fb7778d8b1770b2be62b9b3f5d24e5afe22d3f1"
+            },
+            {
+              "path": "games/speciesunknown/ue4ss/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 194,
+              "sha256": "9da4a98dc7c8972b75798cc087fc0b53832628b5149bed56b64128701acdd06c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "split-fiction",
+      "name": "Split Fiction",
+      "steamAppIds": [
+        "2001120"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/split-fiction/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 11373,
+              "sha256": "fa4717a92381389493f41fa8633a16e2a3dd1a4782dc3f6e886a105c7138fd07"
+            },
+            {
+              "path": "games/split-fiction/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7687,
+              "sha256": "40b34123fe168782f650bf50daa8a68e237fca13661a51b621ea0ca5b938128c"
+            },
+            {
+              "path": "games/split-fiction/ue4ss/UE4SS_Signatures/FText_Constructor.lua",
+              "target": "UE4SS_Signatures/FText_Constructor.lua",
+              "size": 276,
+              "sha256": "e13cac3de11ef1a86d85af27b5f6bde30900e4003db01f4fc96590a5d850463e"
+            },
+            {
+              "path": "games/split-fiction/ue4ss/UE4SS_Signatures/Gnatives.lua",
+              "target": "UE4SS_Signatures/Gnatives.lua",
+              "size": 282,
+              "sha256": "7fc3a558e370989d025953f780772efc206df8e38e92e8b46efb0335bf6eaec8"
+            },
+            {
+              "path": "games/split-fiction/ue4ss/UE4SS_Signatures/GUObjectArray.lua",
+              "target": "UE4SS_Signatures/GUObjectArray.lua",
+              "size": 338,
+              "sha256": "a2f5ef4151ab1262347025325ade9ef88ab21bbe9c3dce720493e912932c0a6c"
+            },
+            {
+              "path": "games/split-fiction/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 18327,
+              "sha256": "bda9dd6ad6aaa25937df85ff9b573070ba3fb46ce447ee3b1b0f75ba08280fbc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stalker2",
+      "name": "Stalker2",
+      "steamAppIds": [
+        "1643320"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": "gamepass",
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/stalker2/ue4ss-gamepass/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7787,
+              "sha256": "0f6a46a638dfda6cb01cad543fafde52338cc9478a167f801ced1c728ded02c0"
+            },
+            {
+              "path": "games/stalker2/ue4ss-gamepass/UE4SS_Signatures/FName_ToString.lua",
+              "target": "UE4SS_Signatures/FName_ToString.lua",
+              "size": 345,
+              "sha256": "2552e912f705bc38b208df4586d05eb28068573497b929c1236c46e0290aaff7"
+            },
+            {
+              "path": "games/stalker2/ue4ss-gamepass/UE4SS_Signatures/GMalloc.lua",
+              "target": "UE4SS_Signatures/GMalloc.lua",
+              "size": 513,
+              "sha256": "6a9bd19054bea8feec70baa4c766324bcd21b5684b400b29cfc363cba74b668c"
+            },
+            {
+              "path": "games/stalker2/ue4ss-gamepass/UE4SS_Signatures/GNatives.lua",
+              "target": "UE4SS_Signatures/GNatives.lua",
+              "size": 666,
+              "sha256": "db99f3e925ccbea5abe341136bbb9f24240d55a1f082e0101584028bb29b3719"
+            },
+            {
+              "path": "games/stalker2/ue4ss-gamepass/UE4SS_Signatures/GUObjectArray.lua",
+              "target": "UE4SS_Signatures/GUObjectArray.lua",
+              "size": 618,
+              "sha256": "3cfbb50ce4e11187354bc37e990dbfe69efd9e8b2ed3a748d6719115d01258d3"
+            },
+            {
+              "path": "games/stalker2/ue4ss-gamepass/UE4SS_Signatures/GUObjectHashTables.lua",
+              "target": "UE4SS_Signatures/GUObjectHashTables.lua",
+              "size": 445,
+              "sha256": "64fcf0a0cdd95e06ba7520d26abcc5ce166e4c0673d6781efec95cbe6e019b21"
+            },
+            {
+              "path": "games/stalker2/ue4ss-gamepass/UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "target": "UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "size": 430,
+              "sha256": "660924851f1144a96537ab7a56bb87a2af3c0dc386050d6faa82f628d29d0b51"
+            },
+            {
+              "path": "games/stalker2/ue4ss-gamepass/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 56105,
+              "sha256": "5590658bfc89ca9e6037577e0537a79c010106caba4b90d0e8310561a5993056"
+            }
+          ]
+        },
+        {
+          "framework": "ue4ss",
+          "store": "steam",
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/stalker2/ue4ss-steam/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7787,
+              "sha256": "0f6a46a638dfda6cb01cad543fafde52338cc9478a167f801ced1c728ded02c0"
+            },
+            {
+              "path": "games/stalker2/ue4ss-steam/UE4SS_Signatures/FName_ToString.lua",
+              "target": "UE4SS_Signatures/FName_ToString.lua",
+              "size": 342,
+              "sha256": "85c24e085206689ff94d1aa0bdeea59a8c916e72351fc332895a424a2b8721b7"
+            },
+            {
+              "path": "games/stalker2/ue4ss-steam/UE4SS_Signatures/GMalloc.lua",
+              "target": "UE4SS_Signatures/GMalloc.lua",
+              "size": 510,
+              "sha256": "33faf14cca290084d5a3ed623e6ba6b71468d2cdb9294b5637670b4979e7480a"
+            },
+            {
+              "path": "games/stalker2/ue4ss-steam/UE4SS_Signatures/GNatives.lua",
+              "target": "UE4SS_Signatures/GNatives.lua",
+              "size": 663,
+              "sha256": "31f26d55f55da4b6c2c4a0f8965e71b2ac4cc0e4cde1ccda863afebaa94b394d"
+            },
+            {
+              "path": "games/stalker2/ue4ss-steam/UE4SS_Signatures/GUObjectArray.lua",
+              "target": "UE4SS_Signatures/GUObjectArray.lua",
+              "size": 646,
+              "sha256": "c24acdfd2b1dba59b7317ceaaa01b2a1675e6854891021ba39418a2e12ff197e"
+            },
+            {
+              "path": "games/stalker2/ue4ss-steam/UE4SS_Signatures/GUObjectHashTables.lua",
+              "target": "UE4SS_Signatures/GUObjectHashTables.lua",
+              "size": 879,
+              "sha256": "5f3300480fbb3c62f7563f5573a2d702e3fc8aa52c8f6e0121570c579015df82"
+            },
+            {
+              "path": "games/stalker2/ue4ss-steam/UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "target": "UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "size": 310,
+              "sha256": "89f0df4f6c3da75a5067ac1ef0cd7210803c54d7b30ffe4fc642213772e48b8d"
+            },
+            {
+              "path": "games/stalker2/ue4ss-steam/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 56105,
+              "sha256": "5590658bfc89ca9e6037577e0537a79c010106caba4b90d0e8310561a5993056"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "star-wars-jedi-fallen-order",
+      "name": "Star Wars Jedi Fallen Order",
+      "steamAppIds": [
+        "1172380"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/star-wars-jedi-fallen-order/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 4113,
+              "sha256": "fdee1dcb8a337987a480310bb2017d8e6db2bf7b6cf4e04a49680f409c545b13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "star-wars-jedi-survivor",
+      "name": "Star Wars Jedi Survivor",
+      "steamAppIds": [
+        "1774580"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/star-wars-jedi-survivor/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 4108,
+              "sha256": "a1e5402ae27eb54f19e5fa2d5abff2de053dca6b12f4294c137f0469d6f0f1fa"
+            },
+            {
+              "path": "games/star-wars-jedi-survivor/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 8233,
+              "sha256": "d496c287d67839f4a7b509aa3e97847688276b01166f7a76dbc5d0fd2d66cd4a"
+            },
+            {
+              "path": "games/star-wars-jedi-survivor/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 16346,
+              "sha256": "a20f60197480f274e1ab949564de9c71bdf2d03480e2445770a9fe01375dbace"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "starrupture",
+      "name": "StarRupture",
+      "steamAppIds": [
+        "1631270"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/starrupture/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 8014,
+              "sha256": "197adb1eafe0f5dc7b8bca94c4df06618bcbe6a2dce2a1ac5b1307fcab32e605"
+            },
+            {
+              "path": "games/starrupture/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 289,
+              "sha256": "92e19ac4afca7449671efa2d522c09224b6a45109e2caaba230454ab49fc2b03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "starwarszerocompany",
+      "name": "StarWarsZeroCompany",
+      "steamAppIds": [
+        "2075800"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/starwarszerocompany/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 8228,
+              "sha256": "463bc201443e8e205ede0559cf1956391223df863a083a80d39bf247936ac01d"
+            },
+            {
+              "path": "games/starwarszerocompany/ue4ss/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 312,
+              "sha256": "368d26c414c46d75679d630b49d3c72733b960e71c3174dd563d0062d3400233"
+            },
+            {
+              "path": "games/starwarszerocompany/ue4ss/UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "target": "UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "size": 405,
+              "sha256": "09a5be401456ccee6d601973fc08e809763d9aed8fa6e4ce427fcf1fd74360d6"
+            },
+            {
+              "path": "games/starwarszerocompany/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 401,
+              "sha256": "ef62dc047d92bbe709a318bc266172fd14febc5ff6ad16f0179a25ebda4c4744"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-outer-worlds",
+      "name": "The Outer Worlds",
+      "steamAppIds": [],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/the-outer-worlds/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 4342,
+              "sha256": "4afaffe331ba840917b1fb4469effddbe72b93ffc8d4355c1e9fbb882c39f5d2"
+            },
+            {
+              "path": "games/the-outer-worlds/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 5736,
+              "sha256": "04c24ed0fcd85c0f8c4eca02c679d4f7dc0f94433e3e25b6a7e1cd403aa33fe5"
+            },
+            {
+              "path": "games/the-outer-worlds/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 4619,
+              "sha256": "9328366dfd4cdbb8b58932ba37ff68666b544a5267f7688e29a5832550263905"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-outer-worlds-2",
+      "name": "The Outer Worlds 2",
+      "steamAppIds": [
+        "1449110"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/the-outer-worlds-2/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 9575,
+              "sha256": "8924f080ac7238a9a7840ac84fc282875638135c9e5e4ad14f6df257fef0e799"
+            },
+            {
+              "path": "games/the-outer-worlds-2/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 55190,
+              "sha256": "5417417d3a98017afe4aa12c32b34d31a18213d56a6cfd9df4c0f37885805ec6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-outer-worlds-spacers-choice",
+      "name": "The Outer Worlds Spacer's Choice",
+      "steamAppIds": [
+        "1920490"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/the-outer-worlds-spacers-choice/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 11384,
+              "sha256": "82bc42f9d1a1533248f7062c3a018f239b44ae1d8ff3adaa8e2dc8bcb0ed2b86"
+            },
+            {
+              "path": "games/the-outer-worlds-spacers-choice/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 5738,
+              "sha256": "a50974ef9c528911899cd6d37c69df847e5b7ff30c6295b73ab80d8675bb37a5"
+            },
+            {
+              "path": "games/the-outer-worlds-spacers-choice/ue4ss/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 200,
+              "sha256": "5acc527931b699ebaa659e9d952830a7b24a118731ff1f5ed19b72a072f1d35a"
+            },
+            {
+              "path": "games/the-outer-worlds-spacers-choice/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 16761,
+              "sha256": "87f466685c0c2af184855b70c22b43c8ed8aaf1697a3e8222bd0d0724d541b3c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-pathless",
+      "name": "The Pathless",
+      "steamAppIds": [
+        "1492680"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/the-pathless/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 4384,
+              "sha256": "a9fd13867a5cb14265b30448731de6d7765f7343f6a6d164733845c2d6b303aa"
+            },
+            {
+              "path": "games/the-pathless/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 9573,
+              "sha256": "f4760e21a432d0378f4f6c4721e2b15d943de7c64ac87cc4d9f3026a3e733a14"
+            },
+            {
+              "path": "games/the-pathless/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 45360,
+              "sha256": "599455241f606818b40333c9fc215cd909040a70fbb35125dc34e416f63368fd"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-quarry",
+      "name": "The Quarry",
+      "steamAppIds": [
+        "1577120"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/the-quarry/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 8015,
+              "sha256": "f1487fce5dd11f2083eecb795bbd11dd35c8da61b3538d4e4a8bc9a41582138e"
+            },
+            {
+              "path": "games/the-quarry/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 278,
+              "sha256": "3ec02968eeaf58b0a39fe5ef6fa4b6bdf91dc69c6584c03bb9eede8c88ffaa83"
+            },
+            {
+              "path": "games/the-quarry/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 45620,
+              "sha256": "89c5a9b5097b55c5275d7728ebf9c330650123aec3be2e18f13d8eec20b2fec6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-talos-principle-2",
+      "name": "The Talos Principle 2",
+      "steamAppIds": [
+        "835960"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/the-talos-principle-2/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 38,
+              "sha256": "c5537e3f72b8a5b3f34ee28f1c635cbc5afe58ff3b170d9a2fa4897ec1eb289a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thebloodofdawnwalker",
+      "name": "TheBloodOfDawnwalker",
+      "steamAppIds": [
+        "3751260"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/thebloodofdawnwalker/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 9575,
+              "sha256": "fc1d0b4aeb49668a6f309951faaf7bead51b254300f0a12f0b671290e531dfed"
+            },
+            {
+              "path": "games/thebloodofdawnwalker/ue4ss/UE4SS_Signatures/ConsoleManager.lua",
+              "target": "UE4SS_Signatures/ConsoleManager.lua",
+              "size": 166,
+              "sha256": "e7bf20bb87306bf1013dc7022d66b4fb1c42756e4fc6bf34889d3a301803a170"
+            },
+            {
+              "path": "games/thebloodofdawnwalker/ue4ss/UE4SS_Signatures/GUObjectHashTables.lua",
+              "target": "UE4SS_Signatures/GUObjectHashTables.lua",
+              "size": 300,
+              "sha256": "cf3dd8aa4b940ff73c960e90600b50c4b9d8579a03e85f0f80d2efe17e5f1eb4"
+            },
+            {
+              "path": "games/thebloodofdawnwalker/ue4ss/UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "target": "UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "size": 250,
+              "sha256": "115809cfe472d100a5b43fa48119314805b072a327675647bca11f554a4c3dd0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thesinkingcity2",
+      "name": "TheSinkingCity2",
+      "steamAppIds": [
+        "2825860"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/thesinkingcity2/ue4ss/UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "target": "UE4SS_Signatures/ProcessLocalScriptFunction.lua",
+              "size": 212,
+              "sha256": "1477817e015735f8acfeb8d492936122ce4c08c8567f41cc84bc05a36ba92828"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titanquest2",
+      "name": "TitanQuest2",
+      "steamAppIds": [
+        "1154030"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/titanquest2/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 3761,
+              "sha256": "34c62edc1be35290fd2011a5fad4de29839035e224c6b097715eec6178667fab"
+            },
+            {
+              "path": "games/titanquest2/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7620,
+              "sha256": "8583874a8b3afaca30dca72018fac94f21cf1806379e62729110af7183cac26c"
+            },
+            {
+              "path": "games/titanquest2/ue4ss/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 194,
+              "sha256": "9da4a98dc7c8972b75798cc087fc0b53832628b5149bed56b64128701acdd06c"
+            },
+            {
+              "path": "games/titanquest2/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 275,
+              "sha256": "5fcf0e747a38a239dc5fbe47926b76126080b2d5e6680e0b7033c4e1b1c46366"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tokyo-xtreme-racer",
+      "name": "Tokyo Xtreme Racer",
+      "steamAppIds": [
+        "2634950"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/tokyo-xtreme-racer/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 178,
+              "sha256": "dc3d993d91abf51666d4a9f9061d8991fc15c8048081f35fc66c5e75646c60c5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vein",
+      "name": "Vein",
+      "steamAppIds": [
+        "1857950"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/vein/ue4ss/MemberVariableLayout.ini",
+              "target": "MemberVariableLayout.ini",
+              "size": 11879,
+              "sha256": "1656cdc82a204e4d738e4e5210c10869e5e54e24bd4760cc3a79e5ae5a69dcad"
+            },
+            {
+              "path": "games/vein/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7594,
+              "sha256": "f307cd05d5db6de48d2682fcbb36e44f2ce696bc0851de069b45c3abfdada08b"
+            },
+            {
+              "path": "games/vein/ue4ss/UE4SS_Signatures/FText_Constructor.lua",
+              "target": "UE4SS_Signatures/FText_Constructor.lua",
+              "size": 157,
+              "sha256": "5585f24988e8e779e629bbc40795e7a6d904df0e4103ccd05e3273c849713524"
+            },
+            {
+              "path": "games/vein/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 277,
+              "sha256": "0f8610b472c2a21d91df7fd24e395bd25f7688035436730164ddd0ae65f0a2fc"
+            },
+            {
+              "path": "games/vein/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 19438,
+              "sha256": "2bd8e6f88c9838e5fa7e5c6d540605727164bbe2f3ad40ba839bef4277454311"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voidlingbound",
+      "name": "VoidlingBound",
+      "steamAppIds": [
+        "2004680"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/voidlingbound/ue4ss/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 732,
+              "sha256": "ee907f9af2394c3e679c3868259cee237490f58f4925a027289bda1b4fd6acd8"
+            },
+            {
+              "path": "games/voidlingbound/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 810,
+              "sha256": "17124ccd8c78d8d710b3d10a6e50ba93ecac43b5cb6a9a346732385ad8ed3183"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "walking-dead-saints-and-sinners",
+      "name": "Walking Dead Saints & Sinners",
+      "steamAppIds": [
+        "916840"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/walking-dead-saints-and-sinners/ue4ss/UE4SS_Signatures/FName_Constructor.lua",
+              "target": "UE4SS_Signatures/FName_Constructor.lua",
+              "size": 188,
+              "sha256": "8627d4a505c5ffb0f041e16284e6aac41301d132ae08117b0f87f025c50e3815"
+            },
+            {
+              "path": "games/walking-dead-saints-and-sinners/ue4ss/UE4SS_Signatures/FName_ToString.lua",
+              "target": "UE4SS_Signatures/FName_ToString.lua",
+              "size": 212,
+              "sha256": "fd7a4b387687e7c9fcedb8d7b8430d2ee41118c9ae15039ea410b334389b3f8a"
+            },
+            {
+              "path": "games/walking-dead-saints-and-sinners/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 188,
+              "sha256": "b3120fadf2cb517976b4178faa81b8f145b561aa052b399a0b45d548d7c9a7f5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "whiskerwood",
+      "name": "Whiskerwood",
+      "steamAppIds": [
+        "2489330"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/whiskerwood/ue4ss/UE4SS_Signatures/FText_Constructor.lua",
+              "target": "UE4SS_Signatures/FText_Constructor.lua",
+              "size": 148,
+              "sha256": "7881e53ceb6eda43cfeb16395cb6f2e5fdedc5dacfbd76328378b3d2b7506de7"
+            },
+            {
+              "path": "games/whiskerwood/ue4ss/UE4SS_Signatures/StaticConstructObject.lua",
+              "target": "UE4SS_Signatures/StaticConstructObject.lua",
+              "size": 178,
+              "sha256": "dc3d993d91abf51666d4a9f9061d8991fc15c8048081f35fc66c5e75646c60c5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wukong",
+      "name": "Wukong",
+      "steamAppIds": [
+        "2358720"
+      ],
+      "unrealProjects": [],
+      "configs": [
+        {
+          "framework": "ue4ss",
+          "store": null,
+          "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+          "testedWith": [],
+          "files": [
+            {
+              "path": "games/wukong/ue4ss/UE4SS-settings.ini",
+              "target": "UE4SS-settings.ini",
+              "size": 7619,
+              "sha256": "b3fd83b6534675cac747461f8729db54f3935d9dd7363e8f7a9837d4e73fae7e"
+            },
+            {
+              "path": "games/wukong/ue4ss/VTableLayout.ini",
+              "target": "VTableLayout.ini",
+              "size": 17201,
+              "sha256": "604337b52bcd3045e1a83231ae9b42aa71ca2d42e92e3ba66b85eecff9600008"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Palworld",
+  "steamAppIds": [
+    "1623730"
+  ],
+  "unrealProjects": [
+    "Pal"
+  ],
+  "configs": [
+    {
+      "framework": "ue4ss",
+      "store": null,
+      "folder": "ue4ss",
+      "source": "https://github.com/UE4SS-RE/RE-UE4SS/issues/802",
+      "notes": "Palworld 0.4.1.5 moved UEnum::Names by 8 bytes. Tested by Noverna Studio on 24 November 2026: type dumps and mappings work again.",
+      "testedWith": [
+        "4.0.0",
+        "4.0.0-15-gb5daa4cc"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Little Nightmares 3 - Demo",
+  "steamAppIds": [],
+  "unrealProjects": [],
+  "configs": [
+    {
+      "framework": "ue4ss",
+      "store": null,
+      "folder": "ue4ss",
+      "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+      "testedWith": []
+    }
+  ]
+}

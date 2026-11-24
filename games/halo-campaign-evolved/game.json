@@ -1,0 +1,23 @@
+{
+  "name": "Halo Campaign Evolved",
+  "steamAppIds": [
+    "2806050"
+  ],
+  "unrealProjects": [],
+  "configs": [
+    {
+      "framework": "ue4ss",
+      "store": "gamepass",
+      "folder": "ue4ss-gamepass",
+      "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+      "testedWith": []
+    },
+    {
+      "framework": "ue4ss",
+      "store": "steam",
+      "folder": "ue4ss-steam",
+      "source": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0 (zCustomGameConfigs.zip)",
+      "testedWith": []
+    }
+  ]
+}

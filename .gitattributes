@@ -1,0 +1,2 @@
+# Config files are served byte for byte and index.json lists their SHA-256: no line-ending conversion for them.
+games/** -text
